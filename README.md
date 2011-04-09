@@ -7,5 +7,5 @@ This repo contains multiple projects for accessing a keyboard and mouse over a P
 
 ## Links
 
-* [Papilio One](http://www.gadgetfactory.net)
-* Keyboard and Mouse (PS2) Wing
+* [Papilio One](http://www.gadgetfactory.net/index.php?main_page=index&cPath=1&zenid=2ff6e9949daacf89694406ecf3a75957)
+* [Keyboard and Mouse (PS2) Wing](http://www.gadgetfactory.net/index.php?main_page=product_info&cPath=4&products_id=20&zenid=2ff6e9949daacf89694406ecf3a75957)
