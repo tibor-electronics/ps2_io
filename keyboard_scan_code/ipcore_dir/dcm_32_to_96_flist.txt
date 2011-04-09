@@ -1,0 +1,4 @@
+# Output products list for <dcm_32_to_96>
+dcm_32_to_96_flist.txt
+dcm_32_to_96_readme.txt
+dcm_32_to_96_xmdf.tcl

@@ -1,0 +1,23 @@
+# Crystal Clock - use 32MHz onboard oscillator
+NET "ext_clk" LOC = "P89" | IOSTANDARD = LVCMOS25 | PERIOD = 31.25ns;
+
+#NET "led<0>" LOC = "P91";
+#NET "led<1>" LOC = "P94";
+#NET "led<2>" LOC = "P98";
+#NET "led<3>" LOC = "P3";
+#NET "led<4>" LOC = "P5";
+#NET "led<5>" LOC = "P10";
+#NET "led<6>" LOC = "P12";
+#NET "led<7>" LOC = "P16";
+
+# ps/2 1
+NET "ps2c" LOC = "P58";
+NET "ps2d" LOC = "P54";
+
+# ps/2 2
+#NET "ps2c" LOC = "P41";
+#NET "ps2d" LOC = "P36";
+
+## RS232
+#NET "rx"  LOC = "P88" | IOSTANDARD = LVCMOS25 ;
+NET "tx"  LOC = "P90" | IOSTANDARD = LVCMOS25 | DRIVE = 4 | SLEW = SLOW;
